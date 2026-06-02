@@ -7,7 +7,7 @@ const mainContent = document.getElementById('mainContent')
 
 function createHome(){
     const h1 = document.createElement('h1')
-    h1.textContent = "Welcome to E Restaurante!"
+    h1.textContent = "Welcome to E Restaurant!"
     mainContent.appendChild(h1)
 
     const p = document.createElement('p')
